@@ -1,0 +1,502 @@
+[
+  {
+    "ID": 1,
+    "name": "5UF22",
+    "course_ID": 84
+  },
+  {
+    "ID": 2,
+    "name": "FOVHQ",
+    "course_ID": 58
+  },
+  {
+    "ID": 3,
+    "name": "PURIP",
+    "course_ID": 89
+  },
+  {
+    "ID": 4,
+    "name": "AMYLD",
+    "course_ID": 9
+  },
+  {
+    "ID": 5,
+    "name": "L1LTW",
+    "course_ID": 1
+  },
+  {
+    "ID": 6,
+    "name": "YB0WX",
+    "course_ID": 29
+  },
+  {
+    "ID": 7,
+    "name": "G39N2",
+    "course_ID": 49
+  },
+  {
+    "ID": 8,
+    "name": "HYSRH",
+    "course_ID": 49
+  },
+  {
+    "ID": 9,
+    "name": "TJB9S",
+    "course_ID": 71
+  },
+  {
+    "ID": 10,
+    "name": "U9TVI",
+    "course_ID": 36
+  },
+  {
+    "ID": 11,
+    "name": "3OXHB",
+    "course_ID": 41
+  },
+  {
+    "ID": 12,
+    "name": "I8FYN",
+    "course_ID": 10
+  },
+  {
+    "ID": 13,
+    "name": "TEXDW",
+    "course_ID": 24
+  },
+  {
+    "ID": 14,
+    "name": "KJYX3",
+    "course_ID": 54
+  },
+  {
+    "ID": 15,
+    "name": "KK3BQ",
+    "course_ID": 35
+  },
+  {
+    "ID": 16,
+    "name": "3FZM6",
+    "course_ID": 66
+  },
+  {
+    "ID": 17,
+    "name": "8UW6B",
+    "course_ID": 90
+  },
+  {
+    "ID": 18,
+    "name": "ML5LJ",
+    "course_ID": 53
+  },
+  {
+    "ID": 19,
+    "name": "FH58C",
+    "course_ID": 28
+  },
+  {
+    "ID": 20,
+    "name": "R4ZIU",
+    "course_ID": 41
+  },
+  {
+    "ID": 21,
+    "name": "RZGTG",
+    "course_ID": 42
+  },
+  {
+    "ID": 22,
+    "name": "61RP2",
+    "course_ID": 78
+  },
+  {
+    "ID": 23,
+    "name": "ZYU0C",
+    "course_ID": 27
+  },
+  {
+    "ID": 24,
+    "name": "QPSMN",
+    "course_ID": 72
+  },
+  {
+    "ID": 25,
+    "name": "48SNK",
+    "course_ID": 43
+  },
+  {
+    "ID": 26,
+    "name": "ENHWD",
+    "course_ID": 43
+  },
+  {
+    "ID": 27,
+    "name": "EEGOG",
+    "course_ID": 8
+  },
+  {
+    "ID": 28,
+    "name": "TXSXH",
+    "course_ID": 31
+  },
+  {
+    "ID": 29,
+    "name": "Q49X3",
+    "course_ID": 43
+  },
+  {
+    "ID": 30,
+    "name": "96EGW",
+    "course_ID": 43
+  },
+  {
+    "ID": 31,
+    "name": "H0H0V",
+    "course_ID": 100
+  },
+  {
+    "ID": 32,
+    "name": "9GXED",
+    "course_ID": 35
+  },
+  {
+    "ID": 33,
+    "name": "WA824",
+    "course_ID": 75
+  },
+  {
+    "ID": 34,
+    "name": "B6T80",
+    "course_ID": 33
+  },
+  {
+    "ID": 35,
+    "name": "E7EOB",
+    "course_ID": 21
+  },
+  {
+    "ID": 36,
+    "name": "TYIKY",
+    "course_ID": 80
+  },
+  {
+    "ID": 37,
+    "name": "1RQGV",
+    "course_ID": 78
+  },
+  {
+    "ID": 38,
+    "name": "QARBW",
+    "course_ID": 40
+  },
+  {
+    "ID": 39,
+    "name": "COE3G",
+    "course_ID": 5
+  },
+  {
+    "ID": 40,
+    "name": "HN7XN",
+    "course_ID": 53
+  },
+  {
+    "ID": 41,
+    "name": "4TFTO",
+    "course_ID": 66
+  },
+  {
+    "ID": 42,
+    "name": "TYA1Y",
+    "course_ID": 13
+  },
+  {
+    "ID": 43,
+    "name": "3WIFN",
+    "course_ID": 64
+  },
+  {
+    "ID": 44,
+    "name": "L0U7U",
+    "course_ID": 16
+  },
+  {
+    "ID": 45,
+    "name": "H9E3A",
+    "course_ID": 85
+  },
+  {
+    "ID": 46,
+    "name": "HK7FT",
+    "course_ID": 68
+  },
+  {
+    "ID": 47,
+    "name": "5ICWH",
+    "course_ID": 74
+  },
+  {
+    "ID": 48,
+    "name": "NPOH9",
+    "course_ID": 49
+  },
+  {
+    "ID": 49,
+    "name": "R5R0X",
+    "course_ID": 55
+  },
+  {
+    "ID": 50,
+    "name": "LTY8T",
+    "course_ID": 29
+  },
+  {
+    "ID": 51,
+    "name": "ZODLZ",
+    "course_ID": 81
+  },
+  {
+    "ID": 52,
+    "name": "W41KT",
+    "course_ID": 19
+  },
+  {
+    "ID": 53,
+    "name": "C1SF0",
+    "course_ID": 24
+  },
+  {
+    "ID": 54,
+    "name": "WCLWB",
+    "course_ID": 7
+  },
+  {
+    "ID": 55,
+    "name": "0MZA6",
+    "course_ID": 5
+  },
+  {
+    "ID": 56,
+    "name": "R8RLI",
+    "course_ID": 92
+  },
+  {
+    "ID": 57,
+    "name": "QBSRJ",
+    "course_ID": 19
+  },
+  {
+    "ID": 58,
+    "name": "5VL4K",
+    "course_ID": 94
+  },
+  {
+    "ID": 59,
+    "name": "BMQZ7",
+    "course_ID": 72
+  },
+  {
+    "ID": 60,
+    "name": "BCRWW",
+    "course_ID": 68
+  },
+  {
+    "ID": 61,
+    "name": "G3BXC",
+    "course_ID": 47
+  },
+  {
+    "ID": 62,
+    "name": "GCK3W",
+    "course_ID": 55
+  },
+  {
+    "ID": 63,
+    "name": "71FL0",
+    "course_ID": 29
+  },
+  {
+    "ID": 64,
+    "name": "C3IK1",
+    "course_ID": 34
+  },
+  {
+    "ID": 65,
+    "name": "S4HC7",
+    "course_ID": 21
+  },
+  {
+    "ID": 66,
+    "name": "YCRW8",
+    "course_ID": 17
+  },
+  {
+    "ID": 67,
+    "name": "ATM3E",
+    "course_ID": 84
+  },
+  {
+    "ID": 68,
+    "name": "044FH",
+    "course_ID": 57
+  },
+  {
+    "ID": 69,
+    "name": "WG0SP",
+    "course_ID": 21
+  },
+  {
+    "ID": 70,
+    "name": "VEOEK",
+    "course_ID": 12
+  },
+  {
+    "ID": 71,
+    "name": "JT2TE",
+    "course_ID": 18
+  },
+  {
+    "ID": 72,
+    "name": "5TV67",
+    "course_ID": 98
+  },
+  {
+    "ID": 73,
+    "name": "I6O69",
+    "course_ID": 34
+  },
+  {
+    "ID": 74,
+    "name": "A0XL6",
+    "course_ID": 90
+  },
+  {
+    "ID": 75,
+    "name": "8K3BS",
+    "course_ID": 66
+  },
+  {
+    "ID": 76,
+    "name": "DX7UX",
+    "course_ID": 74
+  },
+  {
+    "ID": 77,
+    "name": "OW4C9",
+    "course_ID": 24
+  },
+  {
+    "ID": 78,
+    "name": "T7RKB",
+    "course_ID": 32
+  },
+  {
+    "ID": 79,
+    "name": "WDYL8",
+    "course_ID": 7
+  },
+  {
+    "ID": 80,
+    "name": "XMWCX",
+    "course_ID": 38
+  },
+  {
+    "ID": 81,
+    "name": "KSD8Z",
+    "course_ID": 13
+  },
+  {
+    "ID": 82,
+    "name": "7LGM8",
+    "course_ID": 32
+  },
+  {
+    "ID": 83,
+    "name": "187U5",
+    "course_ID": 41
+  },
+  {
+    "ID": 84,
+    "name": "02ZG1",
+    "course_ID": 80
+  },
+  {
+    "ID": 85,
+    "name": "NA1K0",
+    "course_ID": 46
+  },
+  {
+    "ID": 86,
+    "name": "MK0G5",
+    "course_ID": 92
+  },
+  {
+    "ID": 87,
+    "name": "W9NVY",
+    "course_ID": 21
+  },
+  {
+    "ID": 88,
+    "name": "9JI15",
+    "course_ID": 51
+  },
+  {
+    "ID": 89,
+    "name": "KH667",
+    "course_ID": 67
+  },
+  {
+    "ID": 90,
+    "name": "JYYQZ",
+    "course_ID": 15
+  },
+  {
+    "ID": 91,
+    "name": "52WSX",
+    "course_ID": 19
+  },
+  {
+    "ID": 92,
+    "name": "4VVLI",
+    "course_ID": 97
+  },
+  {
+    "ID": 93,
+    "name": "YUGNU",
+    "course_ID": 95
+  },
+  {
+    "ID": 94,
+    "name": "H6B75",
+    "course_ID": 80
+  },
+  {
+    "ID": 95,
+    "name": "Y5H18",
+    "course_ID": 85
+  },
+  {
+    "ID": 96,
+    "name": "C1MUT",
+    "course_ID": 38
+  },
+  {
+    "ID": 97,
+    "name": "B58EM",
+    "course_ID": 20
+  },
+  {
+    "ID": 98,
+    "name": "2OC15",
+    "course_ID": 24
+  },
+  {
+    "ID": 99,
+    "name": "RJX94",
+    "course_ID": 59
+  },
+  {
+    "ID": 100,
+    "name": "G1WNU",
+    "course_ID": 23
+  }
+]

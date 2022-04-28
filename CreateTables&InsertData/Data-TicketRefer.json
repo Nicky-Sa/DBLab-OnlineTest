@@ -1,0 +1,702 @@
+[
+  {
+    "ID": 1,
+    "end_time": "2025-05-06 01:06:03.0",
+    "ticket_ID": 47,
+    "support_ID": 77,
+    "tech_ID": 40
+  },
+  {
+    "ID": 2,
+    "end_time": "2028-10-07 12:49:52.0",
+    "ticket_ID": 97,
+    "support_ID": 90,
+    "tech_ID": 97
+  },
+  {
+    "ID": 3,
+    "end_time": "2026-02-22 19:13:12.0",
+    "ticket_ID": 69,
+    "support_ID": 18,
+    "tech_ID": 40
+  },
+  {
+    "ID": 4,
+    "end_time": "2026-02-12 11:54:34.0",
+    "ticket_ID": 69,
+    "support_ID": 53,
+    "tech_ID": 43
+  },
+  {
+    "ID": 5,
+    "end_time": "2026-10-25 20:40:34.0",
+    "ticket_ID": 62,
+    "support_ID": 33,
+    "tech_ID": 2
+  },
+  {
+    "ID": 6,
+    "end_time": "2024-07-09 01:20:12.0",
+    "ticket_ID": 82,
+    "support_ID": 26,
+    "tech_ID": 18
+  },
+  {
+    "ID": 7,
+    "end_time": "2027-05-22 15:53:15.0",
+    "ticket_ID": 83,
+    "support_ID": 77,
+    "tech_ID": 8
+  },
+  {
+    "ID": 8,
+    "end_time": "2028-02-04 12:14:58.0",
+    "ticket_ID": 38,
+    "support_ID": 77,
+    "tech_ID": 30
+  },
+  {
+    "ID": 9,
+    "end_time": "2024-04-29 23:10:40.0",
+    "ticket_ID": 52,
+    "support_ID": 28,
+    "tech_ID": 61
+  },
+  {
+    "ID": 10,
+    "end_time": "2023-04-13 09:04:52.0",
+    "ticket_ID": 29,
+    "support_ID": 42,
+    "tech_ID": 46
+  },
+  {
+    "ID": 11,
+    "end_time": "2024-07-02 14:57:58.0",
+    "ticket_ID": 66,
+    "support_ID": 19,
+    "tech_ID": 11
+  },
+  {
+    "ID": 12,
+    "end_time": "2032-03-11 11:59:49.0",
+    "ticket_ID": 63,
+    "support_ID": 81,
+    "tech_ID": 92
+  },
+  {
+    "ID": 13,
+    "end_time": "2027-12-13 06:40:52.0",
+    "ticket_ID": 48,
+    "support_ID": 99,
+    "tech_ID": 34
+  },
+  {
+    "ID": 14,
+    "end_time": "2025-01-10 21:46:25.0",
+    "ticket_ID": 55,
+    "support_ID": 61,
+    "tech_ID": 44
+  },
+  {
+    "ID": 15,
+    "end_time": "2029-12-05 21:13:24.0",
+    "ticket_ID": 22,
+    "support_ID": 4,
+    "tech_ID": 58
+  },
+  {
+    "ID": 16,
+    "end_time": "2027-05-15 11:07:45.0",
+    "ticket_ID": 87,
+    "support_ID": 77,
+    "tech_ID": 98
+  },
+  {
+    "ID": 17,
+    "end_time": "2025-12-27 08:08:43.0",
+    "ticket_ID": 92,
+    "support_ID": 76,
+    "tech_ID": 23
+  },
+  {
+    "ID": 18,
+    "end_time": "2029-05-04 07:49:32.0",
+    "ticket_ID": 40,
+    "support_ID": 20,
+    "tech_ID": 4
+  },
+  {
+    "ID": 19,
+    "end_time": "2023-11-05 18:09:53.0",
+    "ticket_ID": 66,
+    "support_ID": 97,
+    "tech_ID": 88
+  },
+  {
+    "ID": 20,
+    "end_time": "2028-09-20 12:50:50.0",
+    "ticket_ID": 93,
+    "support_ID": 94,
+    "tech_ID": 61
+  },
+  {
+    "ID": 21,
+    "end_time": "2031-10-10 13:25:35.0",
+    "ticket_ID": 95,
+    "support_ID": 78,
+    "tech_ID": 71
+  },
+  {
+    "ID": 22,
+    "end_time": "2029-03-01 08:54:16.0",
+    "ticket_ID": 79,
+    "support_ID": 19,
+    "tech_ID": 82
+  },
+  {
+    "ID": 23,
+    "end_time": "2027-03-10 16:41:54.0",
+    "ticket_ID": 37,
+    "support_ID": 37,
+    "tech_ID": 44
+  },
+  {
+    "ID": 24,
+    "end_time": "2030-08-08 05:39:50.0",
+    "ticket_ID": 58,
+    "support_ID": 56,
+    "tech_ID": 20
+  },
+  {
+    "ID": 25,
+    "end_time": "2028-09-06 15:16:28.0",
+    "ticket_ID": 42,
+    "support_ID": 35,
+    "tech_ID": 79
+  },
+  {
+    "ID": 26,
+    "end_time": "2025-12-28 21:38:03.0",
+    "ticket_ID": 10,
+    "support_ID": 80,
+    "tech_ID": 79
+  },
+  {
+    "ID": 27,
+    "end_time": "2026-01-20 20:38:34.0",
+    "ticket_ID": 92,
+    "support_ID": 9,
+    "tech_ID": 29
+  },
+  {
+    "ID": 28,
+    "end_time": "2028-03-20 17:40:07.0",
+    "ticket_ID": 4,
+    "support_ID": 91,
+    "tech_ID": 65
+  },
+  {
+    "ID": 29,
+    "end_time": "2022-05-09 11:59:01.0",
+    "ticket_ID": 90,
+    "support_ID": 74,
+    "tech_ID": 40
+  },
+  {
+    "ID": 30,
+    "end_time": "2031-03-04 23:21:47.0",
+    "ticket_ID": 87,
+    "support_ID": 76,
+    "tech_ID": 97
+  },
+  {
+    "ID": 31,
+    "end_time": "2022-11-19 03:01:29.0",
+    "ticket_ID": 78,
+    "support_ID": 68,
+    "tech_ID": 83
+  },
+  {
+    "ID": 32,
+    "end_time": "2026-05-23 21:48:51.0",
+    "ticket_ID": 66,
+    "support_ID": 46,
+    "tech_ID": 39
+  },
+  {
+    "ID": 33,
+    "end_time": "2029-01-13 10:08:17.0",
+    "ticket_ID": 17,
+    "support_ID": 66,
+    "tech_ID": 18
+  },
+  {
+    "ID": 34,
+    "end_time": "2028-10-06 20:41:44.0",
+    "ticket_ID": 97,
+    "support_ID": 29,
+    "tech_ID": 29
+  },
+  {
+    "ID": 35,
+    "end_time": "2029-08-01 17:44:57.0",
+    "ticket_ID": 43,
+    "support_ID": 55,
+    "tech_ID": 47
+  },
+  {
+    "ID": 36,
+    "end_time": "2032-02-19 04:52:55.0",
+    "ticket_ID": 46,
+    "support_ID": 31,
+    "tech_ID": 43
+  },
+  {
+    "ID": 37,
+    "end_time": "2024-06-20 02:43:11.0",
+    "ticket_ID": 59,
+    "support_ID": 64,
+    "tech_ID": 63
+  },
+  {
+    "ID": 38,
+    "end_time": "2029-09-08 19:57:07.0",
+    "ticket_ID": 36,
+    "support_ID": 37,
+    "tech_ID": 66
+  },
+  {
+    "ID": 39,
+    "end_time": "2031-03-17 00:50:45.0",
+    "ticket_ID": 86,
+    "support_ID": 84,
+    "tech_ID": 13
+  },
+  {
+    "ID": 40,
+    "end_time": "2028-06-17 15:44:34.0",
+    "ticket_ID": 24,
+    "support_ID": 86,
+    "tech_ID": 5
+  },
+  {
+    "ID": 41,
+    "end_time": "2024-02-13 00:07:50.0",
+    "ticket_ID": 28,
+    "support_ID": 59,
+    "tech_ID": 83
+  },
+  {
+    "ID": 42,
+    "end_time": "2023-10-29 15:27:55.0",
+    "ticket_ID": 52,
+    "support_ID": 50,
+    "tech_ID": 36
+  },
+  {
+    "ID": 43,
+    "end_time": "2024-01-22 04:52:34.0",
+    "ticket_ID": 50,
+    "support_ID": 89,
+    "tech_ID": 78
+  },
+  {
+    "ID": 44,
+    "end_time": "2025-01-22 13:52:58.0",
+    "ticket_ID": 86,
+    "support_ID": 88,
+    "tech_ID": 86
+  },
+  {
+    "ID": 45,
+    "end_time": "2029-08-28 21:33:52.0",
+    "ticket_ID": 29,
+    "support_ID": 23,
+    "tech_ID": 10
+  },
+  {
+    "ID": 46,
+    "end_time": "2030-04-28 17:56:34.0",
+    "ticket_ID": 94,
+    "support_ID": 4,
+    "tech_ID": 57
+  },
+  {
+    "ID": 47,
+    "end_time": "2023-09-10 20:44:59.0",
+    "ticket_ID": 18,
+    "support_ID": 69,
+    "tech_ID": 23
+  },
+  {
+    "ID": 48,
+    "end_time": "2032-03-05 23:21:55.0",
+    "ticket_ID": 72,
+    "support_ID": 76,
+    "tech_ID": 28
+  },
+  {
+    "ID": 49,
+    "end_time": "2031-02-04 08:48:56.0",
+    "ticket_ID": 64,
+    "support_ID": 62,
+    "tech_ID": 35
+  },
+  {
+    "ID": 50,
+    "end_time": "2025-08-10 22:12:26.0",
+    "ticket_ID": 1,
+    "support_ID": 14,
+    "tech_ID": 84
+  },
+  {
+    "ID": 51,
+    "end_time": "2028-09-04 19:08:51.0",
+    "ticket_ID": 64,
+    "support_ID": 5,
+    "tech_ID": 63
+  },
+  {
+    "ID": 52,
+    "end_time": "2024-03-22 00:22:35.0",
+    "ticket_ID": 57,
+    "support_ID": 79,
+    "tech_ID": 22
+  },
+  {
+    "ID": 53,
+    "end_time": "2023-01-26 20:16:12.0",
+    "ticket_ID": 15,
+    "support_ID": 58,
+    "tech_ID": 31
+  },
+  {
+    "ID": 54,
+    "end_time": "2028-08-18 21:00:30.0",
+    "ticket_ID": 77,
+    "support_ID": 43,
+    "tech_ID": 30
+  },
+  {
+    "ID": 55,
+    "end_time": "2024-12-20 21:45:23.0",
+    "ticket_ID": 6,
+    "support_ID": 100,
+    "tech_ID": 7
+  },
+  {
+    "ID": 56,
+    "end_time": "2026-07-14 11:42:15.0",
+    "ticket_ID": 73,
+    "support_ID": 100,
+    "tech_ID": 33
+  },
+  {
+    "ID": 57,
+    "end_time": "2030-01-21 07:12:50.0",
+    "ticket_ID": 96,
+    "support_ID": 40,
+    "tech_ID": 53
+  },
+  {
+    "ID": 58,
+    "end_time": "2030-12-18 23:27:00.0",
+    "ticket_ID": 94,
+    "support_ID": 98,
+    "tech_ID": 82
+  },
+  {
+    "ID": 59,
+    "end_time": "2031-11-19 05:56:25.0",
+    "ticket_ID": 20,
+    "support_ID": 46,
+    "tech_ID": 8
+  },
+  {
+    "ID": 60,
+    "end_time": "2030-07-08 12:13:23.0",
+    "ticket_ID": 73,
+    "support_ID": 95,
+    "tech_ID": 71
+  },
+  {
+    "ID": 61,
+    "end_time": "2022-11-10 13:55:33.0",
+    "ticket_ID": 3,
+    "support_ID": 43,
+    "tech_ID": 88
+  },
+  {
+    "ID": 62,
+    "end_time": "2023-11-27 14:40:10.0",
+    "ticket_ID": 85,
+    "support_ID": 47,
+    "tech_ID": 78
+  },
+  {
+    "ID": 63,
+    "end_time": "2029-08-04 20:56:55.0",
+    "ticket_ID": 23,
+    "support_ID": 55,
+    "tech_ID": 17
+  },
+  {
+    "ID": 64,
+    "end_time": "2028-05-24 05:04:40.0",
+    "ticket_ID": 61,
+    "support_ID": 71,
+    "tech_ID": 60
+  },
+  {
+    "ID": 65,
+    "end_time": "2023-01-20 10:04:01.0",
+    "ticket_ID": 49,
+    "support_ID": 19,
+    "tech_ID": 86
+  },
+  {
+    "ID": 66,
+    "end_time": "2031-08-22 21:38:24.0",
+    "ticket_ID": 42,
+    "support_ID": 60,
+    "tech_ID": 64
+  },
+  {
+    "ID": 67,
+    "end_time": "2029-03-25 16:52:40.0",
+    "ticket_ID": 70,
+    "support_ID": 38,
+    "tech_ID": 15
+  },
+  {
+    "ID": 68,
+    "end_time": "2031-02-23 23:22:23.0",
+    "ticket_ID": 27,
+    "support_ID": 4,
+    "tech_ID": 36
+  },
+  {
+    "ID": 69,
+    "end_time": "2025-05-07 18:28:27.0",
+    "ticket_ID": 44,
+    "support_ID": 70,
+    "tech_ID": 13
+  },
+  {
+    "ID": 70,
+    "end_time": "2028-03-13 11:24:14.0",
+    "ticket_ID": 53,
+    "support_ID": 9,
+    "tech_ID": 21
+  },
+  {
+    "ID": 71,
+    "end_time": "2024-07-16 17:00:38.0",
+    "ticket_ID": 96,
+    "support_ID": 67,
+    "tech_ID": 33
+  },
+  {
+    "ID": 72,
+    "end_time": "2023-06-18 02:21:59.0",
+    "ticket_ID": 20,
+    "support_ID": 98,
+    "tech_ID": 49
+  },
+  {
+    "ID": 73,
+    "end_time": "2027-12-08 10:56:37.0",
+    "ticket_ID": 93,
+    "support_ID": 26,
+    "tech_ID": 40
+  },
+  {
+    "ID": 74,
+    "end_time": "2025-01-08 16:26:12.0",
+    "ticket_ID": 81,
+    "support_ID": 64,
+    "tech_ID": 82
+  },
+  {
+    "ID": 75,
+    "end_time": "2029-12-10 07:25:06.0",
+    "ticket_ID": 63,
+    "support_ID": 100,
+    "tech_ID": 31
+  },
+  {
+    "ID": 76,
+    "end_time": "2024-02-22 00:28:45.0",
+    "ticket_ID": 4,
+    "support_ID": 81,
+    "tech_ID": 27
+  },
+  {
+    "ID": 77,
+    "end_time": "2024-06-28 00:19:55.0",
+    "ticket_ID": 43,
+    "support_ID": 10,
+    "tech_ID": 16
+  },
+  {
+    "ID": 78,
+    "end_time": "2030-06-17 21:41:57.0",
+    "ticket_ID": 74,
+    "support_ID": 27,
+    "tech_ID": 69
+  },
+  {
+    "ID": 79,
+    "end_time": "2025-11-15 02:57:26.0",
+    "ticket_ID": 96,
+    "support_ID": 6,
+    "tech_ID": 51
+  },
+  {
+    "ID": 80,
+    "end_time": "2028-08-13 18:37:23.0",
+    "ticket_ID": 62,
+    "support_ID": 62,
+    "tech_ID": 87
+  },
+  {
+    "ID": 81,
+    "end_time": "2028-08-09 04:09:13.0",
+    "ticket_ID": 57,
+    "support_ID": 87,
+    "tech_ID": 84
+  },
+  {
+    "ID": 82,
+    "end_time": "2029-01-12 00:36:05.0",
+    "ticket_ID": 80,
+    "support_ID": 81,
+    "tech_ID": 47
+  },
+  {
+    "ID": 83,
+    "end_time": "2024-12-11 08:40:45.0",
+    "ticket_ID": 53,
+    "support_ID": 74,
+    "tech_ID": 65
+  },
+  {
+    "ID": 84,
+    "end_time": "2028-12-28 03:52:44.0",
+    "ticket_ID": 82,
+    "support_ID": 62,
+    "tech_ID": 23
+  },
+  {
+    "ID": 85,
+    "end_time": "2030-07-13 08:32:48.0",
+    "ticket_ID": 3,
+    "support_ID": 96,
+    "tech_ID": 5
+  },
+  {
+    "ID": 86,
+    "end_time": "2025-12-18 16:49:56.0",
+    "ticket_ID": 59,
+    "support_ID": 7,
+    "tech_ID": 6
+  },
+  {
+    "ID": 87,
+    "end_time": "2023-02-11 12:43:20.0",
+    "ticket_ID": 97,
+    "support_ID": 87,
+    "tech_ID": 34
+  },
+  {
+    "ID": 88,
+    "end_time": "2025-01-22 00:38:29.0",
+    "ticket_ID": 68,
+    "support_ID": 50,
+    "tech_ID": 51
+  },
+  {
+    "ID": 89,
+    "end_time": "2024-03-06 23:53:56.0",
+    "ticket_ID": 75,
+    "support_ID": 73,
+    "tech_ID": 41
+  },
+  {
+    "ID": 90,
+    "end_time": "2024-01-16 09:10:15.0",
+    "ticket_ID": 61,
+    "support_ID": 41,
+    "tech_ID": 77
+  },
+  {
+    "ID": 91,
+    "end_time": "2023-01-07 04:32:18.0",
+    "ticket_ID": 48,
+    "support_ID": 35,
+    "tech_ID": 85
+  },
+  {
+    "ID": 92,
+    "end_time": "2031-02-17 00:29:45.0",
+    "ticket_ID": 9,
+    "support_ID": 43,
+    "tech_ID": 39
+  },
+  {
+    "ID": 93,
+    "end_time": "2028-09-07 01:43:26.0",
+    "ticket_ID": 31,
+    "support_ID": 63,
+    "tech_ID": 88
+  },
+  {
+    "ID": 94,
+    "end_time": "2029-12-27 09:27:38.0",
+    "ticket_ID": 100,
+    "support_ID": 83,
+    "tech_ID": 95
+  },
+  {
+    "ID": 95,
+    "end_time": "2025-03-13 08:54:56.0",
+    "ticket_ID": 81,
+    "support_ID": 9,
+    "tech_ID": 63
+  },
+  {
+    "ID": 96,
+    "end_time": "2028-04-24 23:21:22.0",
+    "ticket_ID": 15,
+    "support_ID": 88,
+    "tech_ID": 11
+  },
+  {
+    "ID": 97,
+    "end_time": "2029-04-09 02:48:24.0",
+    "ticket_ID": 42,
+    "support_ID": 22,
+    "tech_ID": 5
+  },
+  {
+    "ID": 98,
+    "end_time": "2027-04-16 08:37:41.0",
+    "ticket_ID": 76,
+    "support_ID": 64,
+    "tech_ID": 96
+  },
+  {
+    "ID": 99,
+    "end_time": "2030-09-09 03:05:14.0",
+    "ticket_ID": 97,
+    "support_ID": 6,
+    "tech_ID": 98
+  },
+  {
+    "ID": 100,
+    "end_time": "2023-02-02 11:53:23.0",
+    "ticket_ID": 97,
+    "support_ID": 62,
+    "tech_ID": 100
+  }
+]

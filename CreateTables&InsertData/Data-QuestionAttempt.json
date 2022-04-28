@@ -1,0 +1,602 @@
+[
+  {
+    "ID": 1,
+    "point": 13.8384,
+    "question_ID": 59,
+    "responder_ID": 20
+  },
+  {
+    "ID": 2,
+    "point": 15.0742,
+    "question_ID": 9,
+    "responder_ID": 80
+  },
+  {
+    "ID": 3,
+    "point": 8.09916,
+    "question_ID": 53,
+    "responder_ID": 73
+  },
+  {
+    "ID": 4,
+    "point": 7.87129,
+    "question_ID": 100,
+    "responder_ID": 24
+  },
+  {
+    "ID": 5,
+    "point": 8.81141,
+    "question_ID": 85,
+    "responder_ID": 32
+  },
+  {
+    "ID": 6,
+    "point": 10.5452,
+    "question_ID": 95,
+    "responder_ID": 19
+  },
+  {
+    "ID": 7,
+    "point": 5.16412,
+    "question_ID": 31,
+    "responder_ID": 25
+  },
+  {
+    "ID": 8,
+    "point": 19.1132,
+    "question_ID": 70,
+    "responder_ID": 46
+  },
+  {
+    "ID": 9,
+    "point": 16.1873,
+    "question_ID": 35,
+    "responder_ID": 47
+  },
+  {
+    "ID": 10,
+    "point": 17.763,
+    "question_ID": 76,
+    "responder_ID": 74
+  },
+  {
+    "ID": 11,
+    "point": 4.89616,
+    "question_ID": 88,
+    "responder_ID": 77
+  },
+  {
+    "ID": 12,
+    "point": 9.70276,
+    "question_ID": 96,
+    "responder_ID": 82
+  },
+  {
+    "ID": 13,
+    "point": 1.64322,
+    "question_ID": 88,
+    "responder_ID": 68
+  },
+  {
+    "ID": 14,
+    "point": 19.6208,
+    "question_ID": 77,
+    "responder_ID": 79
+  },
+  {
+    "ID": 15,
+    "point": 7.9749,
+    "question_ID": 82,
+    "responder_ID": 15
+  },
+  {
+    "ID": 16,
+    "point": 11.8448,
+    "question_ID": 87,
+    "responder_ID": 4
+  },
+  {
+    "ID": 17,
+    "point": 4.12035,
+    "question_ID": 45,
+    "responder_ID": 73
+  },
+  {
+    "ID": 18,
+    "point": 17.5195,
+    "question_ID": 54,
+    "responder_ID": 8
+  },
+  {
+    "ID": 19,
+    "point": 2.80135,
+    "question_ID": 64,
+    "responder_ID": 89
+  },
+  {
+    "ID": 20,
+    "point": 14.3337,
+    "question_ID": 88,
+    "responder_ID": 88
+  },
+  {
+    "ID": 21,
+    "point": 15.8642,
+    "question_ID": 30,
+    "responder_ID": 79
+  },
+  {
+    "ID": 22,
+    "point": 18.3326,
+    "question_ID": 13,
+    "responder_ID": 53
+  },
+  {
+    "ID": 23,
+    "point": 17.6007,
+    "question_ID": 93,
+    "responder_ID": 43
+  },
+  {
+    "ID": 24,
+    "point": 7.18218,
+    "question_ID": 56,
+    "responder_ID": 13
+  },
+  {
+    "ID": 25,
+    "point": 17.3418,
+    "question_ID": 74,
+    "responder_ID": 41
+  },
+  {
+    "ID": 26,
+    "point": 5.24194,
+    "question_ID": 34,
+    "responder_ID": 19
+  },
+  {
+    "ID": 27,
+    "point": 2.52667,
+    "question_ID": 95,
+    "responder_ID": 42
+  },
+  {
+    "ID": 28,
+    "point": 17.5988,
+    "question_ID": 53,
+    "responder_ID": 45
+  },
+  {
+    "ID": 29,
+    "point": 13.7103,
+    "question_ID": 48,
+    "responder_ID": 97
+  },
+  {
+    "ID": 30,
+    "point": 5.44838,
+    "question_ID": 22,
+    "responder_ID": 64
+  },
+  {
+    "ID": 31,
+    "point": 16.6316,
+    "question_ID": 7,
+    "responder_ID": 36
+  },
+  {
+    "ID": 32,
+    "point": 3.20924,
+    "question_ID": 64,
+    "responder_ID": 77
+  },
+  {
+    "ID": 33,
+    "point": 3.79256,
+    "question_ID": 32,
+    "responder_ID": 23
+  },
+  {
+    "ID": 34,
+    "point": 6.4348,
+    "question_ID": 42,
+    "responder_ID": 49
+  },
+  {
+    "ID": 35,
+    "point": 6.53381,
+    "question_ID": 44,
+    "responder_ID": 20
+  },
+  {
+    "ID": 36,
+    "point": 5.09896,
+    "question_ID": 23,
+    "responder_ID": 83
+  },
+  {
+    "ID": 37,
+    "point": 7.00406,
+    "question_ID": 76,
+    "responder_ID": 81
+  },
+  {
+    "ID": 38,
+    "point": 10.27,
+    "question_ID": 85,
+    "responder_ID": 72
+  },
+  {
+    "ID": 39,
+    "point": 10.5116,
+    "question_ID": 56,
+    "responder_ID": 66
+  },
+  {
+    "ID": 40,
+    "point": 18.2394,
+    "question_ID": 39,
+    "responder_ID": 36
+  },
+  {
+    "ID": 41,
+    "point": 10.9123,
+    "question_ID": 6,
+    "responder_ID": 73
+  },
+  {
+    "ID": 42,
+    "point": 8.83956,
+    "question_ID": 69,
+    "responder_ID": 27
+  },
+  {
+    "ID": 43,
+    "point": 14.2699,
+    "question_ID": 71,
+    "responder_ID": 8
+  },
+  {
+    "ID": 44,
+    "point": 14.4564,
+    "question_ID": 35,
+    "responder_ID": 27
+  },
+  {
+    "ID": 45,
+    "point": 10.7425,
+    "question_ID": 33,
+    "responder_ID": 44
+  },
+  {
+    "ID": 46,
+    "point": 4.37433,
+    "question_ID": 85,
+    "responder_ID": 1
+  },
+  {
+    "ID": 47,
+    "point": 15.6073,
+    "question_ID": 1,
+    "responder_ID": 44
+  },
+  {
+    "ID": 48,
+    "point": 18.4688,
+    "question_ID": 21,
+    "responder_ID": 55
+  },
+  {
+    "ID": 49,
+    "point": 2.29398,
+    "question_ID": 24,
+    "responder_ID": 77
+  },
+  {
+    "ID": 50,
+    "point": 4.1555,
+    "question_ID": 2,
+    "responder_ID": 72
+  },
+  {
+    "ID": 51,
+    "point": 8.5091,
+    "question_ID": 96,
+    "responder_ID": 62
+  },
+  {
+    "ID": 52,
+    "point": 11.1875,
+    "question_ID": 25,
+    "responder_ID": 57
+  },
+  {
+    "ID": 53,
+    "point": 2.80407,
+    "question_ID": 70,
+    "responder_ID": 73
+  },
+  {
+    "ID": 54,
+    "point": 6.50073,
+    "question_ID": 81,
+    "responder_ID": 54
+  },
+  {
+    "ID": 55,
+    "point": 14.0299,
+    "question_ID": 43,
+    "responder_ID": 100
+  },
+  {
+    "ID": 56,
+    "point": 4.67621,
+    "question_ID": 31,
+    "responder_ID": 53
+  },
+  {
+    "ID": 57,
+    "point": 3.03063,
+    "question_ID": 28,
+    "responder_ID": 47
+  },
+  {
+    "ID": 58,
+    "point": 11.3952,
+    "question_ID": 7,
+    "responder_ID": 97
+  },
+  {
+    "ID": 59,
+    "point": 8.10112,
+    "question_ID": 66,
+    "responder_ID": 96
+  },
+  {
+    "ID": 60,
+    "point": 8.75561,
+    "question_ID": 36,
+    "responder_ID": 55
+  },
+  {
+    "ID": 61,
+    "point": 19.7414,
+    "question_ID": 84,
+    "responder_ID": 35
+  },
+  {
+    "ID": 62,
+    "point": 0.584362,
+    "question_ID": 2,
+    "responder_ID": 57
+  },
+  {
+    "ID": 63,
+    "point": 17.7766,
+    "question_ID": 2,
+    "responder_ID": 19
+  },
+  {
+    "ID": 64,
+    "point": 7.37758,
+    "question_ID": 4,
+    "responder_ID": 67
+  },
+  {
+    "ID": 65,
+    "point": 7.64102,
+    "question_ID": 68,
+    "responder_ID": 58
+  },
+  {
+    "ID": 66,
+    "point": 19.9493,
+    "question_ID": 54,
+    "responder_ID": 30
+  },
+  {
+    "ID": 67,
+    "point": 12.9764,
+    "question_ID": 73,
+    "responder_ID": 55
+  },
+  {
+    "ID": 68,
+    "point": 17.4371,
+    "question_ID": 27,
+    "responder_ID": 44
+  },
+  {
+    "ID": 69,
+    "point": 10.7891,
+    "question_ID": 96,
+    "responder_ID": 87
+  },
+  {
+    "ID": 70,
+    "point": 19.6573,
+    "question_ID": 19,
+    "responder_ID": 7
+  },
+  {
+    "ID": 71,
+    "point": 15.7981,
+    "question_ID": 66,
+    "responder_ID": 9
+  },
+  {
+    "ID": 72,
+    "point": 5.35399,
+    "question_ID": 20,
+    "responder_ID": 46
+  },
+  {
+    "ID": 73,
+    "point": 5.61939,
+    "question_ID": 19,
+    "responder_ID": 69
+  },
+  {
+    "ID": 74,
+    "point": 12.9155,
+    "question_ID": 42,
+    "responder_ID": 6
+  },
+  {
+    "ID": 75,
+    "point": 19.8134,
+    "question_ID": 7,
+    "responder_ID": 75
+  },
+  {
+    "ID": 76,
+    "point": 12.7435,
+    "question_ID": 55,
+    "responder_ID": 10
+  },
+  {
+    "ID": 77,
+    "point": 11.5575,
+    "question_ID": 28,
+    "responder_ID": 3
+  },
+  {
+    "ID": 78,
+    "point": 4.56831,
+    "question_ID": 74,
+    "responder_ID": 41
+  },
+  {
+    "ID": 79,
+    "point": 16.2157,
+    "question_ID": 30,
+    "responder_ID": 64
+  },
+  {
+    "ID": 80,
+    "point": 6.18451,
+    "question_ID": 87,
+    "responder_ID": 28
+  },
+  {
+    "ID": 81,
+    "point": 0.723562,
+    "question_ID": 95,
+    "responder_ID": 27
+  },
+  {
+    "ID": 82,
+    "point": 13.6146,
+    "question_ID": 93,
+    "responder_ID": 44
+  },
+  {
+    "ID": 83,
+    "point": 3.37645,
+    "question_ID": 1,
+    "responder_ID": 51
+  },
+  {
+    "ID": 84,
+    "point": 10.5631,
+    "question_ID": 48,
+    "responder_ID": 29
+  },
+  {
+    "ID": 85,
+    "point": 2.27335,
+    "question_ID": 74,
+    "responder_ID": 89
+  },
+  {
+    "ID": 86,
+    "point": 0.00214593,
+    "question_ID": 84,
+    "responder_ID": 40
+  },
+  {
+    "ID": 87,
+    "point": 7.62165,
+    "question_ID": 77,
+    "responder_ID": 41
+  },
+  {
+    "ID": 88,
+    "point": 11.5215,
+    "question_ID": 24,
+    "responder_ID": 43
+  },
+  {
+    "ID": 89,
+    "point": 14.4397,
+    "question_ID": 63,
+    "responder_ID": 33
+  },
+  {
+    "ID": 90,
+    "point": 4.17073,
+    "question_ID": 49,
+    "responder_ID": 50
+  },
+  {
+    "ID": 91,
+    "point": 4.02416,
+    "question_ID": 52,
+    "responder_ID": 45
+  },
+  {
+    "ID": 92,
+    "point": 16.2082,
+    "question_ID": 57,
+    "responder_ID": 82
+  },
+  {
+    "ID": 93,
+    "point": 16.7452,
+    "question_ID": 80,
+    "responder_ID": 76
+  },
+  {
+    "ID": 94,
+    "point": 11.6343,
+    "question_ID": 95,
+    "responder_ID": 62
+  },
+  {
+    "ID": 95,
+    "point": 14.6995,
+    "question_ID": 44,
+    "responder_ID": 59
+  },
+  {
+    "ID": 96,
+    "point": 16.752,
+    "question_ID": 86,
+    "responder_ID": 52
+  },
+  {
+    "ID": 97,
+    "point": 18.5876,
+    "question_ID": 8,
+    "responder_ID": 71
+  },
+  {
+    "ID": 98,
+    "point": 12.2962,
+    "question_ID": 43,
+    "responder_ID": 36
+  },
+  {
+    "ID": 99,
+    "point": 6.7941,
+    "question_ID": 28,
+    "responder_ID": 63
+  },
+  {
+    "ID": 100,
+    "point": 11.697,
+    "question_ID": 79,
+    "responder_ID": 36
+  }
+]
